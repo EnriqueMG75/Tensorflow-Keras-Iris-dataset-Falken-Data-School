@@ -1,5 +1,17 @@
-# Data Scientist Nanodegree (Term 2)
+## Abstract
 
- Content for Udacity's Data Science Nanodegree curriculum, which includes project and lesson content.
+An introduction to Deep Learning with Tensorflow Keras using the iris dataset
 
- <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
+## Instructions
+
+Open Anaconda Powershell prompt and create a Tensorflow enviroment:
+
+conda create -n tf tensorflow
+
+Activate the environment:
+
+conda activate tf
+
+Install in the environment all necessary libraries
+
+conda install ... or if any library is not in conda use pip install ...
