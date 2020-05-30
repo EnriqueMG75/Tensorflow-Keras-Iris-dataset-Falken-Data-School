@@ -12,6 +12,6 @@ Activate the environment:
 
 conda activate tf
 
-Install in the environment all necessary libraries
+Install in the environment all necessary libraries and Jupyter Notebook
 
 conda install ... or if any library is not in conda use pip install ...
